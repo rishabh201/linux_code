@@ -44,7 +44,7 @@ Moves into a directory.
 cd folder_name
 ```
 
-![alt text](image-2.png)
+![screenshot of image-2](image-2.png)
 Examples:
 
 ```bash
